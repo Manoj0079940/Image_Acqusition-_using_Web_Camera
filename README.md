@@ -25,6 +25,7 @@ Use cv2.imshow to show the video
 End the program and close the output video window by pressing 'q'
 
 ## Program:
+
 ``` Python
 ### Developed By:MANOJ M
 ### Register No:212223230122
@@ -41,6 +42,7 @@ cv2.destroyAllWindows()
 
 
 ## ii) Display the video
+
 ```
 import numpy as np
 import cv2
@@ -55,6 +57,7 @@ cv2.destroyAllWindows()
 
 
 ## iii) Display the video by resizing the window
+
 ```
 import numpy as np
 import cv2
@@ -81,6 +84,7 @@ cv2.destroyAllWindows()
 
 
 ## iv) Rotate and display the video
+
 ```
 import numpy as np
 import cv2
@@ -111,16 +115,20 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
+
 ![Screenshot 2025-03-28 052543](https://github.com/user-attachments/assets/3eba1762-4eca-43d0-abf4-ed70e7598f31)
 
 
 
 ### iii) Display the video by resizing the window
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/61651ba4-dd65-4524-8e93-5b217f08e0c5)
+
 
 
 
 ### iv) Rotate and display the video
+
 ![image](https://github.com/user-attachments/assets/3c4a72b1-cb36-41b6-a8e5-b494f1f93607)
 
 
